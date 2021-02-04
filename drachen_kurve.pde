@@ -13,7 +13,7 @@ mit turn_right und turn_left ändere ich Zeichungrichtung nach in "dir" gespeich
 
 Feld coords speichert x1, y1 in coords[0], coords[1]; x2, y2 in coords[2], coords[3] bzw.
 
-Bitte ändern Sie nur Betrag von n also Zeile 19.
+Bitte ändern Sie nur Betrag von n und len also Zeile 19 und 20.
 */
 
 int     n      = 11;
