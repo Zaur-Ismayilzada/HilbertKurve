@@ -1,2 +1,2 @@
 # Lindenmayer-System
-Es ist die verschiedenen Kurven im Lindenmayersystem mit  eingegebenen Daten zu zeichen.
+Es ist die verschiedenen Kurven im Lindenmayersystem mit  eingegebenen Daten zu zeichnen.
