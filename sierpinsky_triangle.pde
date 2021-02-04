@@ -14,7 +14,7 @@ zeichen soll, habe ich letzte Lage von Punkte beobachtet.
 
 Feld coords speichert x1, y1 in coords[0], coords[1]; x2, y2 in coords[2], coords[3] bzw.
 
-Bitte ändern Sie nur Betrag von n also Zeile 20.
+Bitte ändern Sie nur Betrag von n und len also Zeile 20 und 21.
 */
 
 int     n      = 6;
