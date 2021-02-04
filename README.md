@@ -1,2 +1,2 @@
-# HilbertKurve
-Es ist die Hilbert Kurve im Lindenmayersystem mit verschiedenen eingegebenen Daten zu zeichen.
+# Lindenmayer-System
+Es ist die verschiedenen Kurven im Lindenmayersystem mit  eingegebenen Daten zu zeichen.
